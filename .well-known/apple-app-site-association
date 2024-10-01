@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "NZRZH5F7YP.com.imi.dolphin.livin.demo.dolphinLivinDemo"
+        ],
+        "paths": [
+          "/",
+          "/sukha"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "NZRZH5F7YP.com.imi.dolphin.livin.demo.dolphinLivinDemo"
+    ]
+  }
+}
