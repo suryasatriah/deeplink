@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.imi.dolphin.livin.demo.dolphin_livin_demo",
+      "sha256_cert_fingerprints": [
+        "B9:53:08:CA:D9:B6:FA:E4:CA:2B:B6:12:59:75:D2:D2:F8:BE:65:1A:A6:34:D3:28:42:42:22:5F:5A:AC:8A:B4"
+      ]
+    }
+  }
+]
