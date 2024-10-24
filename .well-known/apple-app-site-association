@@ -8,7 +8,8 @@
         ],
         "paths": [
           "/",
-          "/sukha"
+          "/sukha",
+          "/transfer"
         ]
       }
     ]
