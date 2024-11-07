@@ -9,7 +9,8 @@
         "paths": [
           "/",
           "/sukha",
-          "/transfer"
+          "/transfer",
+          "/plnpra"
         ]
       }
     ]
